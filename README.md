@@ -1,27 +1,18 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+##uSafe?  
+uSafe? is an iOS application that helps keep you safe no matter where you go or what you do. It's especially useful for those who live alone.
+How it works:  
+Register for an account in our app, and add a few people as your emergency contacts. Once they have agreed, you can choose a task (ie jogging), an emergency contact and the amount of time you will spend on this task. Once you start this task, our app will send a text message to your emergency contact about your task and when will this task end. If you as the user have not checked back in on our app after the given amount of time, our app will send a text message to your contact reminding them to check in with you to make sure you are safe. We will also implement a location tracker if you did not check back in after the task.
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+###Technologies used:  
 
-## Getting Started
+Swift 3
+xCode 10
+Node.js
+FlowRoute SMS API
+NodeMailer
+#####Queenie Ho queenieio.com  
+https://www.linkedin.com/in/queenieho1/  
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* Fork the repo
+#####Chris Rollins chrisrollins.io https://github.com/chrisrollins https://www.linkedin.com/in/chris-rollins-2669a053/  
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+#####Harmann Bajwa http://www.harmann.tech/ https://github.com/harmannb http://www.linkedin.com/in/harmannbajwa/  
