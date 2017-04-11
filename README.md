@@ -11,7 +11,6 @@ Register for an account in our app, and add a few people as your emergency conta
 
 ###  Developers:  
 ####  Queenie Ho  
-
  http://queenieio.com  
 
 https://www.linkedin.com/in/queenieho1/
